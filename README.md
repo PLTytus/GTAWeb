@@ -4,7 +4,7 @@
 
 This repository serves as an issue tracking and suggestion hub for the website. Please read this document first and feel free to submit any issues or suggestions you may have.
 
-Contact email: pltytus@gtaweb.eu
+Email for diffrent matters (please do not use to send issues there, use GitHub for this): pltytus@gtaweb.eu
 
 ## General notes
 
