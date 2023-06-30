@@ -25,5 +25,5 @@ If you would like to support my work in this way, you can do so at [Buy Me a Cof
 
 ❗ *PLEASE DO NOT USE EMAIL TO SEND ISSUES AND SUGGESTIONS - USE [ISSUES](https://github.com/PLTytus/GTAWeb/issues) TAB INSTEAD* ❗
 
-If you would like to contact me for business or anything other than issues or suggestions, you can use this email address: pltytus@gtaweb.eu
+If you would like to contact me for business or anything other than issues or suggestions, you can use this email address: pltytus@gtaweb.eu  
 For off-topic discussions, you can visit my Twitter profile: [@PLTytus](https://twitter.com/PLTytus)
