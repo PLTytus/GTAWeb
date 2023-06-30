@@ -4,8 +4,6 @@
 
 This repository serves as an issue tracking and suggestion hub for the website. Please read this document first and feel free to submit any issues or suggestions you may have.
 
-Email for diffrent matters (please do not use to send issues there, use GitHub for this): pltytus@gtaweb.eu
-
 ## General notes
 
 1. Please use only English for better communitation.
@@ -22,3 +20,10 @@ There is separate [translation project at Crowdin](https://crowdin.com/project/g
 ## Donations
 
 If you would like to support my work in this way, you can do so at [Buy Me a Coffee](https://www.buymeacoffee.com/pltytus). You can check the list of supporters on special [subpage](https://gtaweb.eu/coffee). There is also an option for anonymous donations.
+
+## Email for business and other matters
+
+❗ *PLEASE DO NOT USE EMAIL TO SEND ISSUES AND SUGGESTIONS - USE [ISSUES](https://github.com/PLTytus/GTAWeb/issues) TAB INSTEAD* ❗
+
+If you would like to contact me for business or anything other than issues or suggestions, you can use this email address: pltytus@gtaweb.eu
+For off-topic discussions, you can visit my Twitter profile: [@PLTytus](https://twitter.com/PLTytus)
