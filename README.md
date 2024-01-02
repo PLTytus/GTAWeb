@@ -8,14 +8,14 @@ This repository serves as an issue tracking and suggestion hub for the website. 
 
 1. Please use only English for better communitation.
 2. Try to avoid duplication. Use search to check if a similar issue or suggestion already exists.
-3. Pleasue use a template when submiting and provide as much detail as possible.
+3. Please use a template when submiting and provide as much detail as possible.
 4. Maintain your culture and treat all participants in the discussion with respect.
 5. Stay on topic and keep discussions focused on the subject at hand.
-6. Understand that time migh be needed to respond and address your feedback. Please be patient and avoid rushing. Programmers are also humans :)
+6. Understand that time might be needed to respond and address your feedback. Please be patient and avoid rushing. Programmers are also humans :)
 
-## Transaltion issues, typos and available languages
+## Translation issues, typos and available languages
 
-There is separate [translation project at Crowdin](https://crowdin.com/project/gtaweb). Typos, languages requests and other translations issues should be reported there. Source language is English. Polish language has official support. Some languages are partially offical supported by taking some labels directly from the game. Feel free to contribute in the translation project. You can check the list of all translators on special [subpage](https://gtaweb.eu/crowdin).  
+There is a separate [translation project at Crowdin](https://crowdin.com/project/gtaweb). Typos, languages requests and other translations issues should be reported there. Source language is English. Polish language has official support. Some languages are partially official supported by taking some labels directly from the game. Feel free to contribute in the translation project. You can check the list of all translators on a special [subpage](https://gtaweb.eu/crowdin).  
 
 ## Donations
 
