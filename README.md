@@ -12,6 +12,7 @@ This repository serves as an issue tracking and suggestion hub for the website. 
 4. Maintain your culture and treat all participants in the discussion with respect.
 5. Stay on topic and keep discussions focused on the subject at hand.
 6. Understand that time might be needed to respond and address your feedback. Please be patient and avoid rushing. Programmers are also humans :)
+7. I may close an issue if the author does not respond for a longer period time, and I cannot duplicate the problem or do not understand the suggestion.
 
 ## Translation issues, typos and available languages
 
