@@ -16,7 +16,7 @@ This repository serves as an issue tracking and suggestion hub for the website. 
 
 ## Security issues
 
-For security issues whcich should not be shared publicly please use the [Security](https://github.com/PLTytus/GTAWeb/security/advisories/new) tab. Don't worry about technical information fields. If you don't understand them, just leave them blank - I always ask for the necessary details if it has not been provided and will be needed to solve the problem.
+For security issues whcich should not be shared publicly please use the [Security](https://github.com/PLTytus/GTAWeb/security/advisories/new) tab. Don't worry about technical information fields. If you don't understand them, just leave them blank - I will always ask for the necessary details if it has not been provided and will be needed to solve the problem.
 
 ## Translation issues, typos and available languages
 
