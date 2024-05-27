@@ -14,6 +14,10 @@ This repository serves as an issue tracking and suggestion hub for the website. 
 6. Understand that time might be needed to respond and address your feedback. Please be patient and avoid rushing. Programmers are also humans :)
 7. I may close an issue if the author does not respond for a longer period time, and I cannot duplicate the problem or do not understand the suggestion.
 
+## Security issues
+
+For security issues whcich should not be shared publicly pleasue the [Security](https://github.com/PLTytus/GTAWeb/security/advisories/new) tab. Don't worry about technical information fields. If you don't understand them, just leave them blank - I always ask for the necessary details if it has not been provided and will be needed to solve the problem.
+
 ## Translation issues, typos and available languages
 
 There is a separate [translation project at Crowdin](https://crowdin.com/project/gtaweb). Typos, languages requests and other translations issues should be reported there. Source language is English. Polish language has official support. Some languages are partially official supported by taking some labels directly from the game. Feel free to contribute in the translation project. You can check the list of all translators on a special [subpage](https://gtaweb.eu/crowdin).  
