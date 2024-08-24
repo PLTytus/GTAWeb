@@ -7,7 +7,7 @@ This repository serves as an issue-tracking and suggestion hub for the website. 
 ## General notes
 
 1. Please use only English for better communication.
-2. Try to avoid duplication. Use search to check if a similar issue or suggestion already exists.
+2. Try to avoid duplication. Use search to check if a similar issue or suggestion already exists. Also check if the topic has not been discussed in [a similar repository on GitLab](https://gitlab.com/PLTytus/GTAWeb).
 3. Please use a template when submitting and provide as much detail as possible.
 4. Maintain your culture and treat all participants in the discussion with respect.
 5. Stay on topic and keep discussions focused on the subject at hand.
