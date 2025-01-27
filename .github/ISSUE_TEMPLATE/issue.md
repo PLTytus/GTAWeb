@@ -17,6 +17,7 @@ assignees: ''
 - Device [e.g. iPhone 6, PC, MacBook]: 
 - OS and its version [e.g. iOS 16.5, Windows 10 Home, Windows 11, ...]: 
 - Browser and its version [e.g. chrome 114.0.5735.110]: 
+- Are you using ad-block? Which one? Does the problem occur when you turn it off?: 
 - Does the problem occur in priavte tab (incognito mode)?: 
 
 **Describe the issue (a clear and detailed description of the issue):**
