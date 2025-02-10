@@ -17,7 +17,7 @@ assignees: ''
 - Device [e.g. iPhone 6, PC, MacBook]: 
 - OS and its version [e.g. iOS 16.5, Windows 10 Home, Windows 11, ...]: 
 - Browser and its version [e.g. chrome 114.0.5735.110]: 
-- Are you a registered user? If yes, provide your username: 
+- Are you a registered user? If so, provide your username and name of profile where error occurs: 
 - Are you using ad-block? Which one? Does the problem occur when you turn it off?: 
 - Does the problem occur in priavte tab (incognito mode)?: 
 
