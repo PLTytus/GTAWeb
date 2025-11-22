@@ -1,6 +1,6 @@
 # [![GTAWeb.eu](https://raw.githubusercontent.com/PLTytus/GTAWeb/master/logo.png)](https://GTAWeb.eu)
 
-[GTAWeb.eu](https://GTAWeb.eu) is a portal about Grand Theft Auto created by fan, for fans. The most popular feature is a collection of interactive maps for the Grand Theft Auto series, featuring plenty of collectibles, random events, and many other points of interest. There is also an online toolkit for Grand Theft Auto Online that helps track the status of in-game businesses and more...
+[GTAWeb.eu](https://GTAWeb.eu) is a portal about Grand Theft Auto created by fan, for fans. The most popular feature is a collection of interactive maps for the Grand Theft Auto series (from GTA III to GTA V, including GTA Online), featuring plenty of collectibles, random events, and many other points of interest. There is also an online toolkit for Grand Theft Auto Online that helps track the status of in-game businesses and more...
 
 This repository serves as an issue-tracking and suggestion hub for the website. Please read this document first and feel free to submit any issues or suggestions you may have.
 
