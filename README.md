@@ -7,12 +7,13 @@ This repository serves as an issue-tracking and suggestion hub for the website. 
 ## General notes
 
 1. Please use only English for better communication.
-2. Try to avoid duplication. Use search to check if a similar issue or suggestion already exists. Also check if the topic has not been discussed in [a similar repository on GitLab](https://gitlab.com/PLTytus/GTAWeb).
-3. Please use a template when submitting and provide as much detail as possible.
-4. Maintain your culture and treat all participants in the discussion with respect.
-5. Stay on topic and keep discussions focused on the subject at hand.
-6. Understand that time might be needed to respond and address your feedback. Please be patient and avoid rushing. Programmers are also humans :)
-7. I may close an issue if the author does not respond for a longer period, and I cannot duplicate the problem or do not understand the suggestion.
+2. One thread = one issue / suggestion.
+3. Try to avoid duplication. Use search to check if a similar issue or suggestion already exists. Also check if the topic has not been discussed in [a similar repository on GitLab](https://gitlab.com/PLTytus/GTAWeb).
+4. Please use a template when submitting and provide as much detail as possible.
+5. Maintain your culture and treat all participants in the discussion with respect.
+6. Stay on topic and keep discussions focused on the subject at hand.
+7. Understand that time might be needed to respond and address your feedback. Please be patient and avoid rushing. Programmers are also humans :)
+8. I may close an issue if the author does not respond for a longer period, and I cannot duplicate the problem or do not understand the suggestion.
 
 ## Security issues
 
